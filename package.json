@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joel Palmer",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "zeromq": "4.2.1"
+  }
 }
